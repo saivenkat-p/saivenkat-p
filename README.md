@@ -6,3 +6,5 @@ I enjoy building practical projects in Artificial Intelligence, Data Science, an
 
 Welcome to my GitHub profile!
 
+---
+🚀 Currently building Quantum Playground.
